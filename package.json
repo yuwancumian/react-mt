@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.coding.net/yuwancumian/react-mt.git"
+    "url": "git@github.com:yuwancumian/react-mt.git"
   },
   "author": "",
   "license": "ISC"
