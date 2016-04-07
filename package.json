@@ -1,0 +1,24 @@
+{
+  "name": "react-mt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "meteor-node-stubs": "^0.2.1",
+    "moment": "^2.12.0",
+    "react": "^0.14.8",
+    "react-addons-pure-render-mixin": "^0.14.8",
+    "react-addons-transition-group": "^0.14.8",
+    "react-dom": "^0.14.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.coding.net/yuwancumian/react-mt.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
